@@ -120,5 +120,10 @@ public class Selenium extends BaseTest {
         driver.get("<your site url>");
     }
 
+    @Test
+    public void closeTabUsingWindowHandles(){
+        
+    }
+
 
 }
